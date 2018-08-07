@@ -6,6 +6,16 @@ body {
   background-color: black;
 }
 
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
 li {
   font-style: italic;
 }
